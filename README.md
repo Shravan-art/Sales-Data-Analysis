@@ -49,7 +49,7 @@ We observed significant sales variances across regions such as central, east, so
 
 🛠️ 𝐓𝐎𝐎𝐋𝐒 𝐔𝐒𝐄𝐃:
 
-Our primary tool for this analysis was 𝐌𝐒 𝐄𝐱𝐜𝐞𝐥.
+Primary tool for this sales analysis was 𝐌𝐒 𝐄𝐱𝐜𝐞𝐥.
 
 Its advanced functions allowed us to manipulate and analyze large datasets effectively, providing a cost-effective solution for complex data analysis.
 
